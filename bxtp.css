@@ -1,0 +1,12 @@
+video {
+  width: 200px;
+}
+div {
+  width: 600px;
+  display: flex;
+  margin: auto;
+  transition: 1s;
+}
+div:hover {
+  border: 5px solid pink;
+}
